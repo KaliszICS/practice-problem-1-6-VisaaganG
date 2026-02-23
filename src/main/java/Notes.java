@@ -1,10 +1,4 @@
-	/**
-		* File: Lesson 1.6 - Booleans
-		* Author: Mr. Kalisz
-		* Date Created: February 13, 2023
-		* Date Last Modified: February 20, 2026
-		*/
-
+v
 	class Notes {
 			public static void main(String args[]) {
 				
